@@ -361,4 +361,4 @@ namespace Youtube_Viewers
 
                         string urlToGet = buildUrl(args);
                         req.AcceptEncoding ="gzip, deflate";
-                        req.AddHeader("Host", "www.youtube
+                        req.AddHeader("Host", "www.you
