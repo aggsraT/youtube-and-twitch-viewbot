@@ -10,4 +10,4 @@ namespace Youtube_Viewers.Helpers
                 RegexOptions.Compiled);
 
         public static Regex Title = new Regex(@"\""title\"":{\""runs\"":\[{\""text\"":\""(.+?)\""}",
-            R
+         
