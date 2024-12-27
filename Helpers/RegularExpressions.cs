@@ -2,4 +2,4 @@
 
 namespace Youtube_Viewers.Helpers
 {
-    internal static cl
+    internal stati
