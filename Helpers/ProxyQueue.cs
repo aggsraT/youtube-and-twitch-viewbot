@@ -88,4 +88,4 @@ namespace Youtube_Viewers.Helpers
             }
             else
             {
-                if (lineSpl
+                if (lin
