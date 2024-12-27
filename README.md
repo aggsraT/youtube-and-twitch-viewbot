@@ -1,2 +1,1 @@
-# Twitch-and-Youtube-Viewbot
-Tw
+# Twitch-and-Youtube-Viewbo
