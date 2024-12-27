@@ -88,4 +88,4 @@ namespace Youtube_Viewers.Helpers
             }
             else
             {
-                if (lineSplit[0].Contains(".") && lineSplit[0].Split('.
+                if (lineSplit[0].Contains(".") && lineSplit[0].Spli
