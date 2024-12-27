@@ -116,5 +116,4 @@ namespace Youtube_Viewers.Helpers
         {
             lock (locker)
             {
-                var prxs = new List<ProxyClient>();
-  
+                var prxs = new List<ProxyClient>()
