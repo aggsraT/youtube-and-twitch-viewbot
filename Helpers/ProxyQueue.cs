@@ -74,4 +74,4 @@ namespace Youtube_Viewers.Helpers
             var formatted = string.Empty;
 
             if (line.Contains("@") && lineSplit.Length == 3)
-            {
+          
