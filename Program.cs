@@ -360,4 +360,4 @@ namespace Youtube_Viewers
                         };
 
                         string urlToGet = buildUrl(args);
-                        req.AcceptEncoding ="gzip, deflate"
+                        req.AcceptEncoding ="gzip, defl
