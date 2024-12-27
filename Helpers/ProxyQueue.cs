@@ -112,4 +112,4 @@ namespace Youtube_Viewers.Helpers
             return formatted;
         }
 
-        public void SafeUpdate(str
+        public void SafeUpdate
