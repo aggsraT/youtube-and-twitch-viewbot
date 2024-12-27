@@ -19,5 +19,4 @@ using System.Runtime.InteropServices;
 // из модели COM задайте для атрибута ComVisible этого типа значение true.
 [assembly: ComVisible(false)]
 
-// Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[
+// Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели C
