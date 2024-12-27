@@ -108,5 +108,3 @@ namespace Youtube_Viewers.Helpers
                         $"{Type.ToString().ToLower()}://{lineSplit[2]}:{lineSplit[3]}:{lineSplit[0]}:{lineSplit[1]}";
                 }
             }
-
-   
