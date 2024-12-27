@@ -105,4 +105,4 @@ namespace Youtube_Viewers.Helpers
                         return string.Empty;
 
                     formatted =
-                        $"{Type.ToString().ToLower()}://{lineSplit[2]}:{li
+                        $"{Type.ToString().ToLower()}://{lineSplit[2]}
