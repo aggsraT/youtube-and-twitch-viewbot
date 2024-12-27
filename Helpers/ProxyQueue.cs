@@ -77,6 +77,4 @@ namespace Youtube_Viewers.Helpers
             {
                 lineSplit = line.Split('@');
                 var userPass = lineSplit[0];
-                var address = lineSplit[1];
-
- 
+                var address = lineSplit[1]
