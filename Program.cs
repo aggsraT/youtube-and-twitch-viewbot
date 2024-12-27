@@ -380,4 +380,4 @@ namespace Youtube_Viewers
             }
         }
         
-        public static double GetCmt(D
+        public static double GetC
