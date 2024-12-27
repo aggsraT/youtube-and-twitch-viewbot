@@ -6,4 +6,4 @@ namespace Youtube_Viewers.Helpers
     {
         public static Regex Viewers =
             new Regex(
-                @"viewCount\"":{\""videoViewCountRenderer\"":{\""viewC
+                @"viewCount\"":{\""videoViewCountRenderer\"":{\""v
