@@ -26,4 +26,4 @@ using System.Runtime.InteropServices;
 //
 //      Основной номер версии
 //      Дополнительный номер версии
-//    
+//
