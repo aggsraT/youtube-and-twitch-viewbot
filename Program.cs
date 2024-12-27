@@ -400,4 +400,4 @@ namespace Youtube_Viewers
         private static Random random = new Random();
         public static string GetCPN()
         {
-            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxy
+            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
