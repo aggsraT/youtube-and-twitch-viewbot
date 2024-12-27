@@ -2,4 +2,4 @@
 
 namespace Youtube_Viewers.Helpers
 {
-    internal static class RegularExpre
+    internal static class RegularE
