@@ -128,4 +128,4 @@ namespace Youtube_Viewers.Helpers
                 lock (locker)
                 {
                     if (proxies.Count == 0)
-                        proxies = new Concur
+                        proxies = new Co
