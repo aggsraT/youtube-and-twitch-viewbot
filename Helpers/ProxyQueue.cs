@@ -86,4 +86,4 @@ namespace Youtube_Viewers.Helpers
 
                 formatted = $"{Type.ToString().ToLower()}://{address}:{userPass}";
             }
-          
+      
