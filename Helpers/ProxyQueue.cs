@@ -125,4 +125,4 @@ namespace Youtube_Viewers.Helpers
         public ProxyClient Next()
         {
             if (proxies.Count == 0)
-                lock (locker
+                lock (lo
