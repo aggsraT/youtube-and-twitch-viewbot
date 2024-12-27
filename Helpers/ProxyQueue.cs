@@ -101,4 +101,4 @@ namespace Youtube_Viewers.Helpers
                 {
                     var port = int.Parse(lineSplit[3]);
 
-                    if (port > 65535 || port <
+                    if (port > 65535 || po
