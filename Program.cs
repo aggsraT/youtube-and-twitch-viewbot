@@ -368,5 +368,4 @@ namespace Youtube_Viewers
                         req.AddHeader("Host", "www.youtube.com");
                         req.Get(urlToGet);
                         
-                        Interlocked.Increment(ref botted);
- 
+                        Interlocked.Increment(ref botted
