@@ -1,2 +1,2 @@
 # Twitch-and-Youtube-Viewbot
-Twitch and Youtube view-bo
+Twitch and Youtube vie
