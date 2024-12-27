@@ -397,4 +397,4 @@ namespace Youtube_Viewers
             return double.Parse(value);
         }
     
-        private static Random random = new
+        private static Random random =
