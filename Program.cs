@@ -394,4 +394,4 @@ namespace Youtube_Viewers
             var origin = new DateTime(1970, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc);
             var start = date.ToUniversalTime() - origin;
             var value = start.TotalSeconds.ToString("#.000");
-            return double.Parse(value
+            return double.Parse(v
