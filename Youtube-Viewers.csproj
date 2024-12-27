@@ -166,4 +166,4 @@
     <Compile Include="Helpers\ProxyQueue.cs" />
     <Compile Include="Helpers\RegularExpressions.cs" />
     <Compile Include="Program.cs" />
-    <Compile Inc
+    <Compile
