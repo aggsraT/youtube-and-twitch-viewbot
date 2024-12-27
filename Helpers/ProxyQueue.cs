@@ -125,4 +125,3 @@ namespace Youtube_Viewers.Helpers
         public ProxyClient Next()
         {
             if (proxies.Count == 0)
-    
