@@ -23,4 +23,3 @@ using System.Runtime.InteropServices;
 [assembly: Guid("3030f0fa-3993-4de9-806f-315b92d77762")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
-//
