@@ -389,4 +389,4 @@ namespace Youtube_Viewers
             return double.Parse(value);
         }
 
-        public static doub
+        public static 
