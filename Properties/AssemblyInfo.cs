@@ -8,4 +8,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Youtube-Viewers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCom
+[assembly: Assembl
