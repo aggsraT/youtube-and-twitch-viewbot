@@ -111,5 +111,3 @@ namespace Youtube_Viewers.Helpers
 
             return formatted;
         }
-
-  
