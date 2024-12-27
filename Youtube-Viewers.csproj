@@ -164,4 +164,4 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Helpers\ProxyQueue.cs" />
-    <Compile Include="Hel
+    <Compile Include=
