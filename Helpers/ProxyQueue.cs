@@ -135,4 +135,4 @@ namespace Youtube_Viewers.Helpers
 
             if (proxies.TryDequeue(out res) && res != null)
                 return res;
-            throw ne
+            thro
