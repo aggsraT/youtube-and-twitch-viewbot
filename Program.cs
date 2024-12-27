@@ -386,4 +386,4 @@ namespace Youtube_Viewers
             var start = date.ToUniversalTime() - origin;
             var now = DateTime.UtcNow.ToUniversalTime() - origin;
             var value = (now.TotalSeconds - start.TotalSeconds).ToString("#.000");
-            return double
+            return do
