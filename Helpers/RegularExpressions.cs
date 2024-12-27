@@ -8,5 +8,3 @@ namespace Youtube_Viewers.Helpers
             new Regex(
                 @"viewCount\"":{\""videoViewCountRenderer\"":{\""viewCount\"":{\""runs\"":\[{\""text\"":\""(.+?)\""}",
                 RegexOptions.Compiled);
-
-  
