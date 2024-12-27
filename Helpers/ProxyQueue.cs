@@ -97,4 +97,4 @@ namespace Youtube_Viewers.Helpers
 
                     formatted = $"{Type.ToString().ToLower()}://{line}";
                 }
-                else if (lineSplit.Length 
+                else if (lineSplit.Len
