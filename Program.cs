@@ -388,5 +388,3 @@ namespace Youtube_Viewers
             var value = (now.TotalSeconds - start.TotalSeconds).ToString("#.000");
             return double.Parse(value);
         }
-
-  
