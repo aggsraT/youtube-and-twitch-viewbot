@@ -10,4 +10,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Youtube-Viewers")]
-[assembly: AssemblyCopyright("Copyr
+[assembly: AssemblyCopyright("C
