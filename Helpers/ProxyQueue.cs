@@ -115,4 +115,3 @@ namespace Youtube_Viewers.Helpers
         public void SafeUpdate(string pr)
         {
             lock (locker)
-    
