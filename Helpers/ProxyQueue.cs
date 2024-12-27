@@ -118,4 +118,4 @@ namespace Youtube_Viewers.Helpers
             {
                 var prxs = new List<ProxyClient>();
                 GetProxies(pr).ForEach(x => prxs.Add(ProxyClient.Parse(x)));
-                plist
+                p
