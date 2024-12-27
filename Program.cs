@@ -382,4 +382,4 @@ namespace Youtube_Viewers
         
         public static double GetCmt(DateTime date)
         {
-            var origin = new DateTime(1970, 
+            var origin = new DateTime(19
