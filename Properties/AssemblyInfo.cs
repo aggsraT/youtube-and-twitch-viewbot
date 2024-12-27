@@ -14,4 +14,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Установка значения False для параметра ComVisible делает т
+// Установка значения False для параметра ComVisible дела
