@@ -6,4 +6,4 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
 [assembly: AssemblyTitle("Youtube-Viewers")]
-[assembly: AssemblyDescription("
+[assembly: AssemblyDescripti
