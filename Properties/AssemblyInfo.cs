@@ -29,4 +29,3 @@ using System.Runtime.InteropServices;
 //      Номер сборки
 //      Номер редакции
 //
-// 
