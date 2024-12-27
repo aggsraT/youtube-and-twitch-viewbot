@@ -103,5 +103,3 @@ namespace Youtube_Viewers.Helpers
 
                     if (port > 65535 || port < 1)
                         return string.Empty;
-
-  
