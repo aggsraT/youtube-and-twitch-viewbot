@@ -401,4 +401,3 @@ namespace Youtube_Viewers
         public static string GetCPN()
         {
             const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_";
-    
