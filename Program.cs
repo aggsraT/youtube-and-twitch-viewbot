@@ -373,4 +373,4 @@ namespace Youtube_Viewers
                 }
                 catch
                 {
-                    Interlocked.Increment(ref errors)
+                    Interlocked.Increment(ref err
