@@ -354,4 +354,4 @@ namespace Youtube_Viewers
                             ["aftm"] = "140",
                             ["rti"] = rt.ToString(),
                             ["muted"] = "0",
-                            ["st"] = st.ToString()
+                            ["st"] = st.ToStri
