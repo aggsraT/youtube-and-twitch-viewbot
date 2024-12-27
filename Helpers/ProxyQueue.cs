@@ -80,5 +80,3 @@ namespace Youtube_Viewers.Helpers
                 var address = lineSplit[1];
 
                 var port = int.Parse(address.Split(':')[1]);
-
-   
