@@ -7,4 +7,3 @@ using System.Runtime.InteropServices;
 // связанные с этой сборкой.
 [assembly: AssemblyTitle("Youtube-Viewers")]
 [assembly: AssemblyDescription("")]
-[ass
