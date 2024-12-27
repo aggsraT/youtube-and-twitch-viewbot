@@ -359,4 +359,4 @@ namespace Youtube_Viewers
                             ["lio"] = lio.ToString()
                         };
 
-                        string urlToGet = buildUr
+                        string urlToGet = bui
