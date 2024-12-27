@@ -363,5 +363,3 @@ namespace Youtube_Viewers
                         req.AcceptEncoding ="gzip, deflate";
                         req.AddHeader("Host", "www.youtube.com");
                         req.Get(urlToGet.Replace("watchtime", "playback"));
-
-   
