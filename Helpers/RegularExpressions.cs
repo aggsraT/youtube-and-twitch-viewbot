@@ -9,4 +9,4 @@ namespace Youtube_Viewers.Helpers
                 @"viewCount\"":{\""videoViewCountRenderer\"":{\""viewCount\"":{\""runs\"":\[{\""text\"":\""(.+?)\""}",
                 RegexOptions.Compiled);
 
-        public static Regex Title = new Regex(@"\""title\"":{\""runs\"":\[
+        public static Regex Title = new Regex(@"\""title\"":{\""runs\"
