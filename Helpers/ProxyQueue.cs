@@ -130,5 +130,3 @@ namespace Youtube_Viewers.Helpers
                     if (proxies.Count == 0)
                         proxies = new ConcurrentQueue<ProxyClient>(plist);
                 }
-
-  
