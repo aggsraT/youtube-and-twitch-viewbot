@@ -376,4 +376,4 @@ namespace Youtube_Viewers
                     Interlocked.Increment(ref errors);
                 }
 
-                Thread.Sleep(1)
+                Thread.Slee
