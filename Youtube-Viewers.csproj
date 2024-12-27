@@ -182,4 +182,4 @@
     <Error Condition="!Exists('..\packages\Costura.Fody.5.3.0\build\Costura.Fody.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Costura.Fody.5.3.0\build\Costura.Fody.props'))" />
     <Error Condition="!Exists('..\packages\Costura.Fody.5.3.0\build\Costura.Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Costura.Fody.5.3.0\build\Costura.Fody.targets'))" />
   </Target>
-  <Import Project="..\packages\Costura.
+  <Import Project="..\packages\Cost
