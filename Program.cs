@@ -375,5 +375,3 @@ namespace Youtube_Viewers
                 {
                     Interlocked.Increment(ref errors);
                 }
-
-   
