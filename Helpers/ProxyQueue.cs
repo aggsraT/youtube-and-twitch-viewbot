@@ -134,4 +134,3 @@ namespace Youtube_Viewers.Helpers
             ProxyClient res;
 
             if (proxies.TryDequeue(out res) && res != null)
-    
