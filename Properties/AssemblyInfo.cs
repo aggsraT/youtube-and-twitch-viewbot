@@ -18,5 +18,3 @@ using System.Runtime.InteropServices;
 // для компонентов COM. Если необходимо обратиться к типу в этой сборке через
 // из модели COM задайте для атрибута ComVisible этого типа значение true.
 [assembly: ComVisible(false)]
-
-// 
