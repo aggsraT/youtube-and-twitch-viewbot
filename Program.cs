@@ -380,5 +380,4 @@ namespace Youtube_Viewers
             }
         }
         
-        public static double GetCmt(DateTime date)
-  
+        public static double GetCmt(DateTime date
