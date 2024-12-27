@@ -79,4 +79,4 @@ namespace Youtube_Viewers.Helpers
                 var userPass = lineSplit[0];
                 var address = lineSplit[1];
 
-                var port = int.Parse(address.Split(':
+                var port = int.Parse(address.Spli
