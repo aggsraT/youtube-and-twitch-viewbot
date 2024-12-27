@@ -124,4 +124,4 @@ namespace Youtube_Viewers.Helpers
 
         public ProxyClient Next()
         {
-            if (proxies.
+            if (prox
