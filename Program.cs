@@ -352,4 +352,4 @@ namespace Youtube_Viewers
                             ["hl"] = "en_US",
                             ["rtn"] = rtn.ToString(),
                             ["aftm"] = "140",
-                            ["rti"] = rt.ToString(),
+                            ["rti"] = rt.ToStrin
