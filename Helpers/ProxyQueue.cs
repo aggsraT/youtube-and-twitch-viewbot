@@ -133,4 +133,4 @@ namespace Youtube_Viewers.Helpers
 
             ProxyClient res;
 
-            if (proxies.
+            if (prox
