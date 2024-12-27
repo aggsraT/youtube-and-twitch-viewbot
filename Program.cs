@@ -391,4 +391,4 @@ namespace Youtube_Viewers
 
         public static double GetLio(DateTime date)
         {
-            var origin = new DateTime(1970, 1, 1, 0, 
+            var origin = new DateTime(1970, 1, 1,
