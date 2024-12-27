@@ -75,4 +75,4 @@ namespace Youtube_Viewers.Helpers
 
             if (line.Contains("@") && lineSplit.Length == 3)
             {
-                lineSplit = line
+                lineSplit = 
