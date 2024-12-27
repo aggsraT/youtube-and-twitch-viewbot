@@ -2,4 +2,4 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Общие св
+// Общи
