@@ -13,4 +13,4 @@ namespace Youtube_Viewers.Helpers
             RegexOptions.Compiled);
 
         public static Regex ViewUrl =
-            new Regex(@"videostatsWatc
+            new Regex(@"videostats
