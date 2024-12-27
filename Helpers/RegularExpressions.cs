@@ -16,5 +16,4 @@ namespace Youtube_Viewers.Helpers
             new Regex(@"videostatsWatchtimeUrl\"":{\""baseUrl\"":\""(.+?)\""}", RegexOptions.Compiled);
 
         public static Regex Trash = new Regex(@"[=/\-+]", RegexOptions.Compiled);
-    }
-}
+   
