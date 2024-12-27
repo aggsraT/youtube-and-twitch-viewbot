@@ -117,4 +117,4 @@ namespace Youtube_Viewers.Helpers
             lock (locker)
             {
                 var prxs = new List<ProxyClient>();
-                GetProxies(pr).ForEach(x => prxs.Add(ProxyClie
+                GetProxies(pr).ForEach(x => prxs.Add(Proxy
