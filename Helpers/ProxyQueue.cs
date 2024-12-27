@@ -90,6 +90,4 @@ namespace Youtube_Viewers.Helpers
             {
                 if (lineSplit[0].Contains(".") && lineSplit[0].Split('.').Length == 4)
                 {
-                    var port = int.Parse(lineSplit[1]);
-
- 
+                    var port = int.Parse(lineSplit[1])
