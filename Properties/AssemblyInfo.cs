@@ -22,4 +22,4 @@ using System.Runtime.InteropServices;
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
 [assembly: Guid("3030f0fa-3993-4de9-806f-315b92d77762")]
 
-// Сведения
+// Свед
