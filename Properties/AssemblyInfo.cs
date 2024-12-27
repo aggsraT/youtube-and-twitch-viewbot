@@ -12,6 +12,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("Youtube-Viewers")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-
-/
+[assembly: AssemblyCulture("")
