@@ -128,4 +128,3 @@ namespace Youtube_Viewers.Helpers
                 lock (locker)
                 {
                     if (proxies.Count == 0)
-    
