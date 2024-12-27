@@ -389,4 +389,4 @@ namespace Youtube_Viewers
             return double.Parse(value);
         }
 
-        public static double GetLio(DateTime d
+        public static double GetLio(DateTi
